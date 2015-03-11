@@ -51,8 +51,8 @@ print_r(curl_error($ch));
 }
 
 define('GITHUB_API', 'https://api.github.com');
-$AUTH_TOKEN = '1fbfcdec1a7986e149ccf45479e4402386d547d4';
-$USER_NAME = 'snwalkunde';
+$AUTH_TOKEN = 'YOUR_AUTH_TOKEN_HERE';
+$USER_NAME = 'YOUR_USER_NAME_HERE';
 
 
 // get comments for this user
